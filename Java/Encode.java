@@ -49,12 +49,4 @@ class Encode{
 for(int k=0;k<al.size();k++){
 	
 	System.out.print(al.get(k)+" ");
-}
-
-		
-
-		
-		
-		
-	}
-}
+}}}
